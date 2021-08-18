@@ -6,5 +6,5 @@ The historical stock price movement for 39 companies. This stock price movement 
 **Business Goal**
 Our job is to categorise the companies using Stock Prices. What insights can you gather from these clusters?<br>
 
-![Language Used](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Language Used](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>
 ![Machine Learning](https://img.shields.io/badge/Un--Supervised-PCA-yellow)
