@@ -8,3 +8,4 @@ Our job is to categorise the companies using Stock Prices. What insights can you
 
 ![Language Used](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>
 ![Machine Learning](https://img.shields.io/badge/Un--Supervised-PCA-yellow)
+![Machine Learning](https://img.shields.io/badge/Un--Supervised-Clustering-orange)
