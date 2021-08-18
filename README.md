@@ -1,11 +1,10 @@
-### Humanitarian-Aid-PCA-Clustering
+### Company Stock-PCA-Clustering
 
 **Problem Statement**
-HELP International is an international humanitarian NGO that is committed to fighting poverty and providing the people of backward countries with basic amenities and relief during the time of disasters and natural calamities. It runs a lot of operational projects from time to time along with advocacy drives to raise awareness as well as for funding purposes.
-
-After the recent funding programmes, they have been able to raise around $ 10 million. Now the CEO of the NGO needs to decide how to use this money strategically and effectively. The significant issues that come while making this decision are mostly related to choosing the countries that are in the direst need of aid.
+The historical stock price movement for 39 companies. This stock price movement is defined as the difference in dollar amount between the closing and opening prices for each trading day. The data was originally collected from Yahoo Finance for 2010 to 2015 duration. Each column represents a trading day and each row represents a company. Refer to the header and index for details about the trading day and companies.
 
 **Business Goal**
-Our job is to categorise the countries using some socio-economic and health factors that determine the overall development of the country. Then you need to suggest the countries which the CEO needs to focus on the most.<br>
+Our job is to categorise the companies using Stock Prices. What insights can you gather from these clusters?<br>
 
 ![Language Used](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Machine Learning](https://img.shields.io/badge/Un--Supervised-PCA-yellow)
